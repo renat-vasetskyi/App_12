@@ -1,0 +1,832 @@
+fileFormatVersion: 2
+guid: b96bbdab802cf984fb4d9e9b32aa0b4c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7299025922195877339
+    second: hatLogo_0
+  - first:
+      213: 184089829860809258
+    second: hatLogo_1
+  - first:
+      213: 7727795463329764633
+    second: hatLogo_2
+  - first:
+      213: 3764811928552833697
+    second: hatLogo_3
+  - first:
+      213: -7849688916041894801
+    second: hatLogo_4
+  - first:
+      213: 2784918874678777231
+    second: hatLogo_5
+  - first:
+      213: 1731168102423232629
+    second: hatLogo_6
+  - first:
+      213: -4528159447580042224
+    second: hatLogo_7
+  - first:
+      213: 899849166558574415
+    second: hatLogo_8
+  - first:
+      213: -2634868033049044841
+    second: hatLogo_9
+  - first:
+      213: -7492697451962220071
+    second: hatLogo_10
+  - first:
+      213: 5511735815470851662
+    second: hatLogo_11
+  - first:
+      213: 1678283156996298070
+    second: hatLogo_12
+  - first:
+      213: 1785686132880868164
+    second: hatLogo_13
+  - first:
+      213: -393944286749643180
+    second: hatLogo_14
+  - first:
+      213: 1152787176083839523
+    second: hatLogo_15
+  - first:
+      213: 3871210868315959026
+    second: hatLogo_16
+  - first:
+      213: -8501624562965076805
+    second: hatLogo_17
+  - first:
+      213: 3661320447993573291
+    second: hatLogo_18
+  - first:
+      213: -9010807260953762572
+    second: hatLogo_19
+  - first:
+      213: 3393840635414786784
+    second: hatLogo_20
+  - first:
+      213: 1968989370828779773
+    second: hatLogo_21
+  - first:
+      213: -7776534064993929885
+    second: hatLogo_22
+  - first:
+      213: 1000312745094227363
+    second: hatLogo_23
+  - first:
+      213: -1438907570633550987
+    second: hatLogo_24
+  - first:
+      213: -2495396590930689448
+    second: hatLogo_25
+  - first:
+      213: 677822629936515392
+    second: hatLogo_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 128
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hatLogo_0
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 479
+        width: 39
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 522952d7896a4ba90800000000000000
+      internalID: -7299025922195877339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hatLogo_1
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 488
+        width: 39
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a9d9399b40e8200800000000000000
+      internalID: 184089829860809258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hatLogo_2
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 478
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91555a0c705ae3b60800000000000000
+      internalID: 7727795463329764633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hatLogo_3
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 430
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a28b8f808c4f3430800000000000000
+      internalID: 3764811928552833697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hatLogo_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 459
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f647002358d401390800000000000000
+      internalID: -7849688916041894801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hatLogo_5
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 458
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f85528d16f406a620800000000000000
+      internalID: 2784918874678777231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hatLogo_6
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 427
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5708c6f8738560810800000000000000
+      internalID: 1731168102423232629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hatLogo_7
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 96
+        width: 440
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c99a049feb821c0800000000000000
+      internalID: -4528159447580042224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hatLogo_8
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 392
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47b724ac08ec7c00800000000000000
+      internalID: 899849166558574415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hatLogo_9
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 388
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 798541ceb711f6bd0800000000000000
+      internalID: -2634868033049044841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hatLogo_10
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 347
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d1415e8d57940890800000000000000
+      internalID: -7492697451962220071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hatLogo_11
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 343
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4620f0958e9d7c40800000000000000
+      internalID: 5511735815470851662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hatLogo_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 298
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655194da3a57a4710800000000000000
+      internalID: 1678283156996298070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hatLogo_13
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 294
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44384bea31808c810800000000000000
+      internalID: 1785686132880868164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hatLogo_14
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 246
+        width: 13
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e2ef622cd688af0800000000000000
+      internalID: -393944286749643180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hatLogo_15
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 242
+        width: 12
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a5a1434d58fff00800000000000000
+      internalID: 1152787176083839523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hatLogo_16
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 193
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2feaa9036cd49b530800000000000000
+      internalID: 3871210868315959026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hatLogo_17
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 189
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb42bb6e089240a80800000000000000
+      internalID: -8501624562965076805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hatLogo_18
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 143
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bafe7878c8f9fc230800000000000000
+      internalID: 3661320447993573291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hatLogo_19
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 140
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f42757998e23f280800000000000000
+      internalID: -9010807260953762572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hatLogo_20
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 62
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e23f2a9318591f20800000000000000
+      internalID: 3393840635414786784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hatLogo_21
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 59
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df0f4ce8661435b10800000000000000
+      internalID: 1968989370828779773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hatLogo_22
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 34
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365ff404873341490800000000000000
+      internalID: -7776534064993929885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hatLogo_23
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 16
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a523ab4423d1ed00800000000000000
+      internalID: 1000312745094227363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hatLogo_24
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 15
+        width: 39
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57354cb2039f70ce0800000000000000
+      internalID: -1438907570633550987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hatLogo_25
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 32
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8520bdf85029e5dd0800000000000000
+      internalID: -2495396590930689448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hatLogo_26
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 11
+        width: 70
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0494616371c186900800000000000000
+      internalID: 677822629936515392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hatLogo_0: -7299025922195877339
+      hatLogo_1: 184089829860809258
+      hatLogo_10: -7492697451962220071
+      hatLogo_11: 5511735815470851662
+      hatLogo_12: 1678283156996298070
+      hatLogo_13: 1785686132880868164
+      hatLogo_14: -393944286749643180
+      hatLogo_15: 1152787176083839523
+      hatLogo_16: 3871210868315959026
+      hatLogo_17: -8501624562965076805
+      hatLogo_18: 3661320447993573291
+      hatLogo_19: -9010807260953762572
+      hatLogo_2: 7727795463329764633
+      hatLogo_20: 3393840635414786784
+      hatLogo_21: 1968989370828779773
+      hatLogo_22: -7776534064993929885
+      hatLogo_23: 1000312745094227363
+      hatLogo_24: -1438907570633550987
+      hatLogo_25: -2495396590930689448
+      hatLogo_26: 677822629936515392
+      hatLogo_3: 3764811928552833697
+      hatLogo_4: -7849688916041894801
+      hatLogo_5: 2784918874678777231
+      hatLogo_6: 1731168102423232629
+      hatLogo_7: -4528159447580042224
+      hatLogo_8: 899849166558574415
+      hatLogo_9: -2634868033049044841
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
