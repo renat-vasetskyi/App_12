@@ -395,9 +395,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _oneSignalIdIOS: 
-  _oneSignalIdAndroid: 
+  _oneSignalIdAndroid: ee3c1573-cccd-4bfe-9b8d-5d2a1551b80a
   _appsflyerIdIOS: 
-  _appsflyerIdAndroid: 
+  _appsflyerIdAndroid: NZHSnt77F7pShoPWD36o68
   _isDebug: 0
   _nextSceneName: MainMenu
 --- !u!4 &1870371441
