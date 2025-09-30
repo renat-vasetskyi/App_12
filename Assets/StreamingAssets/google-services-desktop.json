@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "294518560093",
+    "project_id": "balloon-rush-53d24",
+    "storage_bucket": "balloon-rush-53d24.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294518560093:android:b579c55e6e420e8732c4b4",
+        "android_client_info": {
+          "package_name": "com.balloon.game.rush"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfyCZyP_403WBPcDnpDnlzMUbDbZvkaSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
