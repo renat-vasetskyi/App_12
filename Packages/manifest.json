@@ -1,5 +1,16 @@
 {
   "dependencies": {
+    "com.google.ads.mobile": "10.4.2",
+    "com.google.external-dependency-manager": "file:/Users/renat/Desktop/Cloacka/Firebase/com.google.external-dependency-manager-1.2.185.tgz",
+    "com.google.firebase.analytics": "file:/Users/renat/Desktop/Cloacka/Firebase/com.google.firebase.analytics-12.6.0.tgz",
+    "com.google.firebase.app": "file:/Users/renat/Desktop/Cloacka/Firebase/com.google.firebase.app-12.6.0.tgz",
+    "com.google.play.common": "file:/Users/renat/Desktop/Cloacka/Firebase/com.google.play.common-1.9.2.tgz",
+    "com.google.play.core": "file:/Users/renat/Desktop/Cloacka/Firebase/com.google.play.core-1.8.5.tgz",
+    "com.google.play.review": "file:/Users/renat/Desktop/Cloacka/Firebase/com.google.play.review-1.8.3.tgz",
+    "com.onesignal.unity.android": "5.1.15",
+    "com.onesignal.unity.core": "5.1.15",
+    "com.onesignal.unity.ios": "5.1.15",
+    "com.unity.ads.ios-support": "1.0.0",
     "com.unity.collab-proxy": "2.9.3",
     "com.unity.device-simulator.devices": "1.0.0",
     "com.unity.feature.2d": "2.0.1",
@@ -44,5 +55,21 @@
     "com.unity.modules.vr": "1.0.0",
     "com.unity.modules.wind": "1.0.0",
     "com.unity.modules.xr": "1.0.0"
-  }
+  },
+  "scopedRegistries": [
+    {
+      "name": "npmjs",
+      "url": "https://registry.npmjs.org",
+      "scopes": [
+        "com.onesignal"
+      ]
+    },
+    {
+      "name": "OpenUPM",
+      "url": "https://package.openupm.com",
+      "scopes": [
+        "com.google.ads.mobile"
+      ]
+    }
+  ]
 }

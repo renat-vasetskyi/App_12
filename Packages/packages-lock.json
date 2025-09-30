@@ -1,5 +1,85 @@
 {
   "dependencies": {
+    "com.google.ads.mobile": {
+      "version": "10.4.2",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.google.external-dependency-manager": "1.2.186",
+        "com.unity.modules.androidjni": "1.0.0"
+      },
+      "url": "https://package.openupm.com"
+    },
+    "com.google.external-dependency-manager": {
+      "version": "file:/Users/renat/Desktop/Cloacka/Firebase/com.google.external-dependency-manager-1.2.185.tgz",
+      "depth": 0,
+      "source": "local-tarball",
+      "dependencies": {}
+    },
+    "com.google.firebase.analytics": {
+      "version": "file:/Users/renat/Desktop/Cloacka/Firebase/com.google.firebase.analytics-12.6.0.tgz",
+      "depth": 0,
+      "source": "local-tarball",
+      "dependencies": {
+        "com.google.firebase.app": "12.6.0"
+      }
+    },
+    "com.google.firebase.app": {
+      "version": "file:/Users/renat/Desktop/Cloacka/Firebase/com.google.firebase.app-12.6.0.tgz",
+      "depth": 0,
+      "source": "local-tarball",
+      "dependencies": {
+        "com.google.external-dependency-manager": "1.2.185"
+      }
+    },
+    "com.google.play.common": {
+      "version": "file:/Users/renat/Desktop/Cloacka/Firebase/com.google.play.common-1.9.2.tgz",
+      "depth": 0,
+      "source": "local-tarball",
+      "dependencies": {}
+    },
+    "com.google.play.core": {
+      "version": "file:/Users/renat/Desktop/Cloacka/Firebase/com.google.play.core-1.8.5.tgz",
+      "depth": 0,
+      "source": "local-tarball",
+      "dependencies": {
+        "com.google.external-dependency-manager": "1.2.172"
+      }
+    },
+    "com.google.play.review": {
+      "version": "file:/Users/renat/Desktop/Cloacka/Firebase/com.google.play.review-1.8.3.tgz",
+      "depth": 0,
+      "source": "local-tarball",
+      "dependencies": {
+        "com.google.play.common": "1.9.2",
+        "com.google.play.core": "1.8.5"
+      }
+    },
+    "com.onesignal.unity.android": {
+      "version": "5.1.15",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.onesignal.unity.core": "5.1.15"
+      },
+      "url": "https://registry.npmjs.org"
+    },
+    "com.onesignal.unity.core": {
+      "version": "5.1.15",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://registry.npmjs.org"
+    },
+    "com.onesignal.unity.ios": {
+      "version": "5.1.15",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.onesignal.unity.core": "5.1.15"
+      },
+      "url": "https://registry.npmjs.org"
+    },
     "com.unity.2d.animation": {
       "version": "10.2.1",
       "depth": 1,
@@ -90,6 +170,13 @@
         "com.unity.modules.tilemap": "1.0.0",
         "com.unity.modules.jsonserialize": "1.0.0"
       },
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.ads.ios-support": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {},
       "url": "https://packages.unity.com"
     },
     "com.unity.burst": {
