@@ -52,6 +52,7 @@ public class LevelCard : MonoBehaviour
         if (levelManager == null)
             return;
 
-        levelManager.LoadScene(SceneToLoad);
+        Debug.Log(SceneToLoad);
+        levelManager.LoadScene(SceneToLoad + 1);
     }
 }
